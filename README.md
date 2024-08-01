@@ -36,8 +36,5 @@
 
   <h2>Contribuição</h2>
     <p>Contribuições são bem-vindas! Sinta-se à vontade para enviar issues e pull requests para melhorar a aplicação.</p>
-
-  <h2>Licença</h2>
-    <p>Este projeto está licenciado sob a Licença MIT. Veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.</p>
 </body>
 
