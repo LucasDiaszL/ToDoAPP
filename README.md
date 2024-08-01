@@ -1,7 +1,7 @@
 
 <body>
     <h1>To-Do List App</h1>
-    <p><img src="link-para-imagem.png" alt="To-Do List App"></p>
+    <p><img src="To-DoList/images/ToDoList.png" alt="To-Do List App"></p>
     <h2>Descrição</h2>
     <p>O <strong>To-Do List App</strong> é uma aplicação simples e intuitiva que permite aos usuários gerenciar suas tarefas diárias. Desenvolvido utilizando HTML, CSS e JavaScript, o aplicativo oferece uma interface fácil de usar para adicionar, editar e remover tarefas, ajudando os usuários a organizar suas atividades de maneira eficiente.</p>
 
