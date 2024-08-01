@@ -24,7 +24,7 @@
   <h2>Como Usar</h2>
     <ol>
         <li>Clone o repositório:
-            <pre><code>git clone https://github.com/seu-usuario/to-do-list-app.git</code></pre>
+            <pre><code>git clone https://github.com/LucasDiaszL/ToDoAPP/tree/main</code></pre>
         </li>
         <li>Navegue até o diretório do projeto:
             <pre><code>cd to-do-list-app</code></pre>
